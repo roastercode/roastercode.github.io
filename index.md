@@ -1,6 +1,6 @@
 ## Welcome
 
-Working on security improvement by design[Roaster Codes](https://github.com/roastercode) is a study place to make automated stuff with less as possible software layers.
+Working on security improvement by design [Roaster Code](https://github.com/roastercode) is a study place to make automated stuff with less as possible software layers.
 
 Why use another language when BASH or Rust can make the just as fine as needed?
 
