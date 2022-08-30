@@ -14,7 +14,7 @@ Reducing by the way the services layers of the system itself.
 
 ### BASH screwdriver for one machine to tuples data centers
 
-[M.A.S.S.](https://github.com/roastercode/MAAS/) Multiplexer Adaptive Administrator Solution to drive and maintain from simple environment to tuples of data centers around the world from one command line.
+[M.A.A.S.](https://github.com/roastercode/MAAS/) Multiplexer Adaptive Administrator Solution to drive and maintain from simple environment to tuples of data centers around the world from one command line.
 
 Purely written in BASH it is readable for your security, and flexible for your wishes.
 
