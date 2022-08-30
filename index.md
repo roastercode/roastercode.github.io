@@ -2,7 +2,11 @@
 
 ### Learn to improve, improve to learn
 
-Working on security improvement by design [Roaster Code](https://github.com/roastercode) is a study place to make automated stuff with less as possible software layers.
+Working on security improvement by design most of the time, so this place is a place to study some things and thought that is not relative to my job time, but help me to test, understand and increase my knowledge.
+
+On some time, I also write stuff form my needs or for my wishes :)
+
+[Roaster Code](https://github.com/roastercode) is a study place to make automated stuff with less as possible software layers.
 
 Why use another language when BASH or Rust can make the just as fine as needed?
 
